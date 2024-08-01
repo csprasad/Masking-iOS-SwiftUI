@@ -7,6 +7,8 @@ This SwiftUI app demonstrates image masking and inverted masking techniques. Use
 - **Image Masking:** Apply custom masks to images to create unique visual effects.
 - **Inverted Masking:** Use inverted masks for creative transformations.
 
+  <img src="Image/Masking.png" alt="Example Image" width="500" height="400"/>
+
 ## Installation
 1. Clone the repository:
    ```bash
