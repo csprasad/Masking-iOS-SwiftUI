@@ -8,7 +8,7 @@ This SwiftUI app demonstrates image masking and inverted masking techniques. Use
 - **Inverted Masking:** Use inverted masks for creative transformations.
 
   <div style="text-align:center;">
-    <img src="Image/Masking.png" alt="Example Image" style="width:100%; max-width:600px; height:auto; border-radius:10px;">
+    <img src="Image/Masking.png" alt="Example Image" style="width:80%; max-width:600px; height:auto; border-radius:10px;">
   </div>
 
 ## Installation
