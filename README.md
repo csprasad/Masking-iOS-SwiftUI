@@ -1,6 +1,4 @@
 # Image Masking and Inverted Masking App
-
-## Overview
 This SwiftUI app demonstrates image masking and inverted masking techniques. Users can interact with images and apply different masking effects to see real-time changes.
 
 ## Features
