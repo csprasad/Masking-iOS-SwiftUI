@@ -23,3 +23,7 @@ Inspired by a LinkedIn post from [Learn And Code With Enid](https://www.linkedin
 For any questions or feedback, feel free to reach out via csprasad195@gmail.com.
 ***
 Feel free to adjust any details as needed!
+
+## License
+
+This project is licensed under the **MIT License**.
