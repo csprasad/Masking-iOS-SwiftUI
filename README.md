@@ -20,7 +20,7 @@ This SwiftUI app demonstrates image masking and inverted masking techniques. Use
 Inspired by a LinkedIn post from [Learn And Code With Enid](https://www.linkedin.com/posts/learn-and-code-with-enid_masking-and-inverted-masking-in-swiftui-activity-7224713901400100864-u9to/?utm_source=share&utm_medium=member_desktop). Check them out for more great coding insights!
 
 ## Contact
-For any questions or feedback, feel free to reach out via csprasad195@gmail.com.
+For any questions or feedback, feel free to reach out via codealligator.csprasad@gmail.com.
 ***
 Feel free to adjust any details as needed!
 
